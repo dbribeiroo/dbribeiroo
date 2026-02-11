@@ -63,7 +63,7 @@ Agente inteligente para automação empresarial usando GPT-4, Agno AgentOS e Nux
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/douglasjunior]((https://www.linkedin.com/in/douglas-j%C3%BAnior-6a77962a4/))
+- 💼 LinkedIn: (https://www.linkedin.com/in/douglas-j%C3%BAnior-6a77962a4/)
 - 📧 Email: dbribeirogt@gmail.com
 - 🏢 Empresa: [Supranet](https://supranet.com.br)
 
