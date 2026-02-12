@@ -18,7 +18,7 @@ Desenvolvedor Full Stack na **Supranet**, especializado em criar **aplicações 
 Minha expertise está em construir **interfaces rápidas e responsivas** com **Nuxt/Vue** e **backends robustos** com **Python/Node.js**, sempre com foco em **performance** e **experiência do usuário**.
 
 - 🔭 Trabalhando em: **[SupraIA](https://github.com/dbribeiroo/SupraIA)** - Agente IA para automação empresarial
-- 💻 Especialista em: **Nuxt**, **Vue**, **Python**, **Node.js**, **Bun**
+- 💻 Especialista em: **Nuxt**, **Vue**, **Python**, **Bun**
 - 🌱 Aprendendo: **Agentes IA**, **RAG**, **LangChain**, **Multi-Agent Systems**
 - 📍 Localização: Vale do Aço - MG, Brasil
 
@@ -29,7 +29,6 @@ Minha expertise está em construir **interfaces rápidas e responsivas** com **N
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frontend
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
